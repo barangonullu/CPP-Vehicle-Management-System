@@ -2,7 +2,7 @@
 
 This repository contains a two-phase C++ Object-Oriented Programming (OOP) project. It demonstrates the evolution of a vehicle management system from basic data encapsulation and operator overloading to a complex, hierarchical architecture utilizing inheritance, polymorphism, and dynamic memory allocation.
 
-## 📁 Project Structure
+## Project Structure
 
 The project is divided into two main phases:
 
